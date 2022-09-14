@@ -7,6 +7,26 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0AA46B306E33798DE82098BD /* Pods_Tapper_Practice.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B4D53BB9040EFAC69A93E153 /* Pods_Tapper_Practice.framework */; };
+		4201B95A28C8893F005000C2 /* ArraysViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4201B95928C8893F005000C2 /* ArraysViewController.swift */; };
+		4209D1F228BA8D840033931F /* ttViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4209D1F128BA8D840033931F /* ttViewController.swift */; };
+		4221280328BE5A3600AE3591 /* JavascriptViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4221280228BE5A3600AE3591 /* JavascriptViewController.swift */; };
+		4221280628BE5F2E00AE3591 /* WebviewViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4221280528BE5F2E00AE3591 /* WebviewViewController.swift */; };
+		4221280828BE664500AE3591 /* WebController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4221280728BE664500AE3591 /* WebController.swift */; };
+		42245F7328CA219200A5ECA5 /* IsomericStringViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42245F7228CA219200A5ECA5 /* IsomericStringViewController.swift */; };
+		4234F9A628C718AB00EB49D4 /* SkeletonViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4234F9A528C718AB00EB49D4 /* SkeletonViewController.swift */; };
+		4243D37028D0610500DE7A78 /* BinarySearchViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4243D36F28D0610500DE7A78 /* BinarySearchViewController.swift */; };
+		4243D37228D0964D00DE7A78 /* BadVerionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4243D37128D0964D00DE7A78 /* BadVerionViewController.swift */; };
+		424818FE28BF907D0078D2A7 /* CustomizedColorViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 424818FD28BF907D0078D2A7 /* CustomizedColorViewController.swift */; };
+		4248190328C090E70078D2A7 /* CGAffineViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4248190228C090E70078D2A7 /* CGAffineViewController.swift */; };
+		4248190528C0947E0078D2A7 /* SafariViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4248190428C0947E0078D2A7 /* SafariViewController.swift */; };
+		4248190728C096FD0078D2A7 /* BezierPathViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4248190628C096FD0078D2A7 /* BezierPathViewController.swift */; };
+		4248190928C0A1D10078D2A7 /* EmailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4248190828C0A1D10078D2A7 /* EmailViewController.swift */; };
+		4282B36E28CA2694001C1888 /* LCSViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4282B36D28CA2694001C1888 /* LCSViewController.swift */; };
+		4282B37128CB0937001C1888 /* AddLinkListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4282B37028CB0937001C1888 /* AddLinkListViewController.swift */; };
+		4282B37328CB13AE001C1888 /* LinkListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4282B37228CB13AE001C1888 /* LinkListViewController.swift */; };
+		42B9B6D928C8F7790053FAE4 /* ZigZagViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42B9B6D828C8F7790053FAE4 /* ZigZagViewController.swift */; };
+		42C676DE28C5C8A4001E2F2D /* MasteringIOSViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42C676DD28C5C8A4001E2F2D /* MasteringIOSViewController.swift */; };
 		42FEF0D028B94FBC003D8101 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42FEF0CF28B94FBC003D8101 /* AppDelegate.swift */; };
 		42FEF0D228B94FBC003D8101 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42FEF0D128B94FBC003D8101 /* SceneDelegate.swift */; };
 		42FEF0D428B94FBC003D8101 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42FEF0D328B94FBC003D8101 /* ViewController.swift */; };
@@ -16,6 +36,25 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		4201B95928C8893F005000C2 /* ArraysViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArraysViewController.swift; sourceTree = "<group>"; };
+		4209D1F128BA8D840033931F /* ttViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ttViewController.swift; sourceTree = "<group>"; };
+		4221280228BE5A3600AE3591 /* JavascriptViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JavascriptViewController.swift; sourceTree = "<group>"; };
+		4221280528BE5F2E00AE3591 /* WebviewViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WebviewViewController.swift; sourceTree = "<group>"; };
+		4221280728BE664500AE3591 /* WebController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WebController.swift; sourceTree = "<group>"; };
+		42245F7228CA219200A5ECA5 /* IsomericStringViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IsomericStringViewController.swift; sourceTree = "<group>"; };
+		4234F9A528C718AB00EB49D4 /* SkeletonViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SkeletonViewController.swift; sourceTree = "<group>"; };
+		4243D36F28D0610500DE7A78 /* BinarySearchViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BinarySearchViewController.swift; sourceTree = "<group>"; };
+		4243D37128D0964D00DE7A78 /* BadVerionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BadVerionViewController.swift; sourceTree = "<group>"; };
+		424818FD28BF907D0078D2A7 /* CustomizedColorViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomizedColorViewController.swift; sourceTree = "<group>"; };
+		4248190228C090E70078D2A7 /* CGAffineViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CGAffineViewController.swift; sourceTree = "<group>"; };
+		4248190428C0947E0078D2A7 /* SafariViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafariViewController.swift; sourceTree = "<group>"; };
+		4248190628C096FD0078D2A7 /* BezierPathViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BezierPathViewController.swift; sourceTree = "<group>"; };
+		4248190828C0A1D10078D2A7 /* EmailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmailViewController.swift; sourceTree = "<group>"; };
+		4282B36D28CA2694001C1888 /* LCSViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LCSViewController.swift; sourceTree = "<group>"; };
+		4282B37028CB0937001C1888 /* AddLinkListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddLinkListViewController.swift; sourceTree = "<group>"; };
+		4282B37228CB13AE001C1888 /* LinkListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LinkListViewController.swift; sourceTree = "<group>"; };
+		42B9B6D828C8F7790053FAE4 /* ZigZagViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ZigZagViewController.swift; sourceTree = "<group>"; };
+		42C676DD28C5C8A4001E2F2D /* MasteringIOSViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MasteringIOSViewController.swift; sourceTree = "<group>"; };
 		42FEF0CC28B94FBC003D8101 /* Tapper Practice.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Tapper Practice.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		42FEF0CF28B94FBC003D8101 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		42FEF0D128B94FBC003D8101 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -24,6 +63,9 @@
 		42FEF0D828B94FC0003D8101 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		42FEF0DB28B94FC0003D8101 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		42FEF0DD28B94FC0003D8101 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		67A9E4A5F5B273710975C6CE /* Pods-Tapper Practice.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Tapper Practice.debug.xcconfig"; path = "Target Support Files/Pods-Tapper Practice/Pods-Tapper Practice.debug.xcconfig"; sourceTree = "<group>"; };
+		B4D53BB9040EFAC69A93E153 /* Pods_Tapper_Practice.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Tapper_Practice.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		E33597885132DA10CA45C4AD /* Pods-Tapper Practice.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Tapper Practice.release.xcconfig"; path = "Target Support Files/Pods-Tapper Practice/Pods-Tapper Practice.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -31,17 +73,113 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0AA46B306E33798DE82098BD /* Pods_Tapper_Practice.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		4201B95828C8892D005000C2 /* Arrays */ = {
+			isa = PBXGroup;
+			children = (
+				4243D36E28D060ED00DE7A78 /* Day 7 */,
+				4282B36F28CB091E001C1888 /* Day 3 */,
+				42245F7128CA217A00A5ECA5 /* Day 2 */,
+				42245F7028CA217400A5ECA5 /* Day 1 */,
+			);
+			path = Arrays;
+			sourceTree = "<group>";
+		};
+		4221280428BE5F2000AE3591 /* WebView testing */ = {
+			isa = PBXGroup;
+			children = (
+				4221280528BE5F2E00AE3591 /* WebviewViewController.swift */,
+				4221280728BE664500AE3591 /* WebController.swift */,
+				424818FD28BF907D0078D2A7 /* CustomizedColorViewController.swift */,
+			);
+			path = "WebView testing";
+			sourceTree = "<group>";
+		};
+		42245F7028CA217400A5ECA5 /* Day 1 */ = {
+			isa = PBXGroup;
+			children = (
+				4201B95928C8893F005000C2 /* ArraysViewController.swift */,
+				42B9B6D828C8F7790053FAE4 /* ZigZagViewController.swift */,
+			);
+			path = "Day 1";
+			sourceTree = "<group>";
+		};
+		42245F7128CA217A00A5ECA5 /* Day 2 */ = {
+			isa = PBXGroup;
+			children = (
+				42245F7228CA219200A5ECA5 /* IsomericStringViewController.swift */,
+				4282B36D28CA2694001C1888 /* LCSViewController.swift */,
+			);
+			path = "Day 2";
+			sourceTree = "<group>";
+		};
+		4234F9A428C7189300EB49D4 /* Let's Build the app */ = {
+			isa = PBXGroup;
+			children = (
+				4234F9A528C718AB00EB49D4 /* SkeletonViewController.swift */,
+			);
+			path = "Let's Build the app";
+			sourceTree = "<group>";
+		};
+		4243D36E28D060ED00DE7A78 /* Day 7 */ = {
+			isa = PBXGroup;
+			children = (
+				4243D36F28D0610500DE7A78 /* BinarySearchViewController.swift */,
+				4243D37128D0964D00DE7A78 /* BadVerionViewController.swift */,
+			);
+			path = "Day 7";
+			sourceTree = "<group>";
+		};
+		4248190128C090C00078D2A7 /* JavatPoint */ = {
+			isa = PBXGroup;
+			children = (
+				4221280428BE5F2000AE3591 /* WebView testing */,
+				4248190228C090E70078D2A7 /* CGAffineViewController.swift */,
+				4248190428C0947E0078D2A7 /* SafariViewController.swift */,
+				4248190628C096FD0078D2A7 /* BezierPathViewController.swift */,
+				4248190828C0A1D10078D2A7 /* EmailViewController.swift */,
+			);
+			path = JavatPoint;
+			sourceTree = "<group>";
+		};
+		4282B36F28CB091E001C1888 /* Day 3 */ = {
+			isa = PBXGroup;
+			children = (
+				4282B37028CB0937001C1888 /* AddLinkListViewController.swift */,
+				4282B37228CB13AE001C1888 /* LinkListViewController.swift */,
+			);
+			path = "Day 3";
+			sourceTree = "<group>";
+		};
+		42B9B6D728C8F75C0053FAE4 /* LeetCode */ = {
+			isa = PBXGroup;
+			children = (
+				4201B95828C8892D005000C2 /* Arrays */,
+			);
+			path = LeetCode;
+			sourceTree = "<group>";
+		};
+		42C676DF28C5C8B2001E2F2D /* AppCoda */ = {
+			isa = PBXGroup;
+			children = (
+				42C676DD28C5C8A4001E2F2D /* MasteringIOSViewController.swift */,
+			);
+			path = AppCoda;
+			sourceTree = "<group>";
+		};
 		42FEF0C328B94FBC003D8101 = {
 			isa = PBXGroup;
 			children = (
 				42FEF0CE28B94FBC003D8101 /* Tapper Practice */,
 				42FEF0CD28B94FBC003D8101 /* Products */,
+				56086951A49AE1DE660BDFC2 /* Pods */,
+				B4D6505B4287B3E1BD535C08 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -56,6 +194,10 @@
 		42FEF0CE28B94FBC003D8101 /* Tapper Practice */ = {
 			isa = PBXGroup;
 			children = (
+				42B9B6D728C8F75C0053FAE4 /* LeetCode */,
+				4234F9A428C7189300EB49D4 /* Let's Build the app */,
+				42C676DF28C5C8B2001E2F2D /* AppCoda */,
+				4248190128C090C00078D2A7 /* JavatPoint */,
 				42FEF0CF28B94FBC003D8101 /* AppDelegate.swift */,
 				42FEF0D128B94FBC003D8101 /* SceneDelegate.swift */,
 				42FEF0D328B94FBC003D8101 /* ViewController.swift */,
@@ -63,8 +205,27 @@
 				42FEF0D828B94FC0003D8101 /* Assets.xcassets */,
 				42FEF0DA28B94FC0003D8101 /* LaunchScreen.storyboard */,
 				42FEF0DD28B94FC0003D8101 /* Info.plist */,
+				4209D1F128BA8D840033931F /* ttViewController.swift */,
+				4221280228BE5A3600AE3591 /* JavascriptViewController.swift */,
 			);
 			path = "Tapper Practice";
+			sourceTree = "<group>";
+		};
+		56086951A49AE1DE660BDFC2 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				67A9E4A5F5B273710975C6CE /* Pods-Tapper Practice.debug.xcconfig */,
+				E33597885132DA10CA45C4AD /* Pods-Tapper Practice.release.xcconfig */,
+			);
+			path = Pods;
+			sourceTree = "<group>";
+		};
+		B4D6505B4287B3E1BD535C08 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				B4D53BB9040EFAC69A93E153 /* Pods_Tapper_Practice.framework */,
+			);
+			name = Frameworks;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -74,9 +235,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 42FEF0E028B94FC0003D8101 /* Build configuration list for PBXNativeTarget "Tapper Practice" */;
 			buildPhases = (
+				F13D95567F83C056DBE25490 /* [CP] Check Pods Manifest.lock */,
 				42FEF0C828B94FBC003D8101 /* Sources */,
 				42FEF0C928B94FBC003D8101 /* Frameworks */,
 				42FEF0CA28B94FBC003D8101 /* Resources */,
+				8A8F7544602F79AE8AFA5258 /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -133,14 +296,75 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		8A8F7544602F79AE8AFA5258 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-Tapper Practice/Pods-Tapper Practice-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-Tapper Practice/Pods-Tapper Practice-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-Tapper Practice/Pods-Tapper Practice-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		F13D95567F83C056DBE25490 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-Tapper Practice-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		42FEF0C828B94FBC003D8101 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				42B9B6D928C8F7790053FAE4 /* ZigZagViewController.swift in Sources */,
+				4209D1F228BA8D840033931F /* ttViewController.swift in Sources */,
+				4201B95A28C8893F005000C2 /* ArraysViewController.swift in Sources */,
 				42FEF0D428B94FBC003D8101 /* ViewController.swift in Sources */,
+				4282B37328CB13AE001C1888 /* LinkListViewController.swift in Sources */,
+				4243D37228D0964D00DE7A78 /* BadVerionViewController.swift in Sources */,
+				4248190928C0A1D10078D2A7 /* EmailViewController.swift in Sources */,
+				4248190528C0947E0078D2A7 /* SafariViewController.swift in Sources */,
+				4221280328BE5A3600AE3591 /* JavascriptViewController.swift in Sources */,
+				4282B37128CB0937001C1888 /* AddLinkListViewController.swift in Sources */,
+				4243D37028D0610500DE7A78 /* BinarySearchViewController.swift in Sources */,
+				4282B36E28CA2694001C1888 /* LCSViewController.swift in Sources */,
+				4248190328C090E70078D2A7 /* CGAffineViewController.swift in Sources */,
+				424818FE28BF907D0078D2A7 /* CustomizedColorViewController.swift in Sources */,
+				4221280828BE664500AE3591 /* WebController.swift in Sources */,
+				42C676DE28C5C8A4001E2F2D /* MasteringIOSViewController.swift in Sources */,
 				42FEF0D028B94FBC003D8101 /* AppDelegate.swift in Sources */,
+				4248190728C096FD0078D2A7 /* BezierPathViewController.swift in Sources */,
+				4221280628BE5F2E00AE3591 /* WebviewViewController.swift in Sources */,
 				42FEF0D228B94FBC003D8101 /* SceneDelegate.swift in Sources */,
+				4234F9A628C718AB00EB49D4 /* SkeletonViewController.swift in Sources */,
+				42245F7328CA219200A5ECA5 /* IsomericStringViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -282,6 +506,7 @@
 		};
 		42FEF0E128B94FC0003D8101 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 67A9E4A5F5B273710975C6CE /* Pods-Tapper Practice.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
@@ -302,13 +527,14 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "com.practice.coo.Tapper-Practice";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
-				SWIFT_VERSION = 5.0;
+				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
 		42FEF0E228B94FC0003D8101 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = E33597885132DA10CA45C4AD /* Pods-Tapper Practice.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
@@ -329,7 +555,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "com.practice.coo.Tapper-Practice";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
-				SWIFT_VERSION = 5.0;
+				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
